@@ -12,10 +12,11 @@ export function useData() {
       try {
         setLoading(true);
 
+        const base = import.meta.env.BASE_URL || '/';
         const [postsRes, dailyRes, statsRes] = await Promise.all([
-          fetch('/data/posts.json'),
-          fetch('/data/daily.json'),
-          fetch('/data/stats.json')
+          fetch(`${base}data/posts.json`),
+          fetch(`${base}data/daily.json`),
+          fetch(`${base}data/stats.json`)
         ]);
 
         if (!postsRes.ok || !dailyRes.ok || !statsRes.ok) {
