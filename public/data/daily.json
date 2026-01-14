@@ -1,0 +1,3467 @@
+[
+  {
+    "date": "2026-01-09",
+    "postCount": 1,
+    "totalReach": 794,
+    "totalEngagement": 17,
+    "avgEngagementRate": 2.14,
+    "totalShares": 5,
+    "totalClicks": 35
+  },
+  {
+    "date": "2026-01-07",
+    "postCount": 1,
+    "totalReach": 741,
+    "totalEngagement": 20,
+    "avgEngagementRate": 2.7,
+    "totalShares": 2,
+    "totalClicks": 54
+  },
+  {
+    "date": "2026-01-06",
+    "postCount": 2,
+    "totalReach": 1734,
+    "totalEngagement": 40,
+    "avgEngagementRate": 2.3,
+    "totalShares": 16,
+    "totalClicks": 94
+  },
+  {
+    "date": "2026-01-05",
+    "postCount": 1,
+    "totalReach": 972,
+    "totalEngagement": 20,
+    "avgEngagementRate": 2.06,
+    "totalShares": 6,
+    "totalClicks": 24
+  },
+  {
+    "date": "2026-01-03",
+    "postCount": 1,
+    "totalReach": 546,
+    "totalEngagement": 15,
+    "avgEngagementRate": 2.75,
+    "totalShares": 1,
+    "totalClicks": 18
+  },
+  {
+    "date": "2026-01-02",
+    "postCount": 1,
+    "totalReach": 1005,
+    "totalEngagement": 21,
+    "avgEngagementRate": 2.09,
+    "totalShares": 4,
+    "totalClicks": 43
+  },
+  {
+    "date": "2025-12-31",
+    "postCount": 1,
+    "totalReach": 52143,
+    "totalEngagement": 38,
+    "avgEngagementRate": 0.07,
+    "totalShares": 5,
+    "totalClicks": 199
+  },
+  {
+    "date": "2025-12-30",
+    "postCount": 1,
+    "totalReach": 3439,
+    "totalEngagement": 84,
+    "avgEngagementRate": 2.44,
+    "totalShares": 20,
+    "totalClicks": 156
+  },
+  {
+    "date": "2025-12-29",
+    "postCount": 1,
+    "totalReach": 1110,
+    "totalEngagement": 30,
+    "avgEngagementRate": 2.7,
+    "totalShares": 6,
+    "totalClicks": 66
+  },
+  {
+    "date": "2025-12-26",
+    "postCount": 1,
+    "totalReach": 1370,
+    "totalEngagement": 26,
+    "avgEngagementRate": 1.9,
+    "totalShares": 4,
+    "totalClicks": 78
+  },
+  {
+    "date": "2025-12-15",
+    "postCount": 1,
+    "totalReach": 940,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 65
+  },
+  {
+    "date": "2025-12-11",
+    "postCount": 1,
+    "totalReach": 883,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 20
+  },
+  {
+    "date": "2025-12-10",
+    "postCount": 2,
+    "totalReach": 6730,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 734
+  },
+  {
+    "date": "2025-12-04",
+    "postCount": 1,
+    "totalReach": 12419,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 272
+  },
+  {
+    "date": "2025-12-02",
+    "postCount": 1,
+    "totalReach": 2531,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 169
+  },
+  {
+    "date": "2025-12-01",
+    "postCount": 1,
+    "totalReach": 1434,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 75
+  },
+  {
+    "date": "2025-11-28",
+    "postCount": 2,
+    "totalReach": 78212,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 10571
+  },
+  {
+    "date": "2025-11-24",
+    "postCount": 1,
+    "totalReach": 741,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 6
+  },
+  {
+    "date": "2025-11-21",
+    "postCount": 1,
+    "totalReach": 907,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 21
+  },
+  {
+    "date": "2025-11-18",
+    "postCount": 2,
+    "totalReach": 4587,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 249
+  },
+  {
+    "date": "2025-11-17",
+    "postCount": 1,
+    "totalReach": 57006,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 29407
+  },
+  {
+    "date": "2025-11-14",
+    "postCount": 3,
+    "totalReach": 105891,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 20393
+  },
+  {
+    "date": "2025-11-13",
+    "postCount": 2,
+    "totalReach": 9562,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 540
+  },
+  {
+    "date": "2025-11-12",
+    "postCount": 1,
+    "totalReach": 1507,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 27
+  },
+  {
+    "date": "2025-11-06",
+    "postCount": 1,
+    "totalReach": 1591,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 29
+  },
+  {
+    "date": "2025-10-30",
+    "postCount": 1,
+    "totalReach": 1476,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 19
+  },
+  {
+    "date": "2025-10-28",
+    "postCount": 1,
+    "totalReach": 1282,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 61
+  },
+  {
+    "date": "2025-10-24",
+    "postCount": 1,
+    "totalReach": 1398,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 32
+  },
+  {
+    "date": "2025-10-23",
+    "postCount": 1,
+    "totalReach": 1514,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 12
+  },
+  {
+    "date": "2025-10-22",
+    "postCount": 2,
+    "totalReach": 2003,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 22
+  },
+  {
+    "date": "2025-10-21",
+    "postCount": 2,
+    "totalReach": 2246,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 37
+  },
+  {
+    "date": "2025-10-17",
+    "postCount": 1,
+    "totalReach": 1372,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 66
+  },
+  {
+    "date": "2025-10-15",
+    "postCount": 1,
+    "totalReach": 945,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 22
+  },
+  {
+    "date": "2025-10-13",
+    "postCount": 1,
+    "totalReach": 1245,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 54
+  },
+  {
+    "date": "2025-10-09",
+    "postCount": 1,
+    "totalReach": 861,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 23
+  },
+  {
+    "date": "2025-10-07",
+    "postCount": 2,
+    "totalReach": 2923,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 218
+  },
+  {
+    "date": "2025-10-03",
+    "postCount": 2,
+    "totalReach": 2491,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 113
+  },
+  {
+    "date": "2025-10-02",
+    "postCount": 2,
+    "totalReach": 36751,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 1167
+  },
+  {
+    "date": "2025-10-01",
+    "postCount": 1,
+    "totalReach": 2044,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 36
+  },
+  {
+    "date": "2025-09-30",
+    "postCount": 1,
+    "totalReach": 592,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 13
+  },
+  {
+    "date": "2025-09-29",
+    "postCount": 1,
+    "totalReach": 1442,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 85
+  },
+  {
+    "date": "2025-09-26",
+    "postCount": 2,
+    "totalReach": 3458,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 74
+  },
+  {
+    "date": "2025-09-24",
+    "postCount": 1,
+    "totalReach": 506,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 11
+  },
+  {
+    "date": "2025-09-18",
+    "postCount": 1,
+    "totalReach": 74554,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 2247
+  },
+  {
+    "date": "2025-09-17",
+    "postCount": 1,
+    "totalReach": 1314,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 59
+  },
+  {
+    "date": "2025-09-15",
+    "postCount": 1,
+    "totalReach": 1852,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 74
+  },
+  {
+    "date": "2025-09-11",
+    "postCount": 1,
+    "totalReach": 727,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 14
+  },
+  {
+    "date": "2025-09-10",
+    "postCount": 1,
+    "totalReach": 546,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 24
+  },
+  {
+    "date": "2025-09-09",
+    "postCount": 1,
+    "totalReach": 675,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 14
+  },
+  {
+    "date": "2025-09-08",
+    "postCount": 1,
+    "totalReach": 782,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 22
+  },
+  {
+    "date": "2025-09-05",
+    "postCount": 1,
+    "totalReach": 1148,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 56
+  },
+  {
+    "date": "2025-09-02",
+    "postCount": 1,
+    "totalReach": 1177,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 82
+  },
+  {
+    "date": "2025-08-29",
+    "postCount": 1,
+    "totalReach": 1723,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 102
+  },
+  {
+    "date": "2025-08-27",
+    "postCount": 1,
+    "totalReach": 20291,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 245
+  },
+  {
+    "date": "2025-08-26",
+    "postCount": 1,
+    "totalReach": 1400,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 60
+  },
+  {
+    "date": "2025-08-23",
+    "postCount": 1,
+    "totalReach": 17741,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 2146
+  },
+  {
+    "date": "2025-08-22",
+    "postCount": 1,
+    "totalReach": 2835,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 230
+  },
+  {
+    "date": "2025-08-21",
+    "postCount": 3,
+    "totalReach": 71205,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 6109
+  },
+  {
+    "date": "2025-08-20",
+    "postCount": 3,
+    "totalReach": 7059,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 498
+  },
+  {
+    "date": "2025-08-19",
+    "postCount": 2,
+    "totalReach": 2436,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 102
+  },
+  {
+    "date": "2025-08-17",
+    "postCount": 1,
+    "totalReach": 1744,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 142
+  },
+  {
+    "date": "2025-08-16",
+    "postCount": 1,
+    "totalReach": 2693,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 315
+  },
+  {
+    "date": "2025-08-15",
+    "postCount": 1,
+    "totalReach": 4957,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 271
+  },
+  {
+    "date": "2025-08-14",
+    "postCount": 2,
+    "totalReach": 4411,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 222
+  },
+  {
+    "date": "2025-08-13",
+    "postCount": 3,
+    "totalReach": 21303,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 1507
+  },
+  {
+    "date": "2025-08-12",
+    "postCount": 2,
+    "totalReach": 60777,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 8942
+  },
+  {
+    "date": "2025-08-09",
+    "postCount": 1,
+    "totalReach": 2310,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 30
+  },
+  {
+    "date": "2025-08-07",
+    "postCount": 2,
+    "totalReach": 3335,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 98
+  },
+  {
+    "date": "2025-08-06",
+    "postCount": 2,
+    "totalReach": 59366,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 277
+  },
+  {
+    "date": "2025-08-01",
+    "postCount": 2,
+    "totalReach": 4209,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 506
+  },
+  {
+    "date": "2025-07-28",
+    "postCount": 1,
+    "totalReach": 2612,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 68
+  },
+  {
+    "date": "2025-07-25",
+    "postCount": 1,
+    "totalReach": 2304,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 140
+  },
+  {
+    "date": "2025-07-24",
+    "postCount": 2,
+    "totalReach": 19821,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 812
+  },
+  {
+    "date": "2025-07-23",
+    "postCount": 2,
+    "totalReach": 2784,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 74
+  },
+  {
+    "date": "2025-07-22",
+    "postCount": 1,
+    "totalReach": 1384,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 39
+  },
+  {
+    "date": "2025-07-21",
+    "postCount": 1,
+    "totalReach": 2563,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 62
+  },
+  {
+    "date": "2025-07-19",
+    "postCount": 1,
+    "totalReach": 1301,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 57
+  },
+  {
+    "date": "2025-07-18",
+    "postCount": 1,
+    "totalReach": 1545,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 83
+  },
+  {
+    "date": "2025-07-16",
+    "postCount": 1,
+    "totalReach": 1772,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 54
+  },
+  {
+    "date": "2025-07-15",
+    "postCount": 2,
+    "totalReach": 2996,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 175
+  },
+  {
+    "date": "2025-07-12",
+    "postCount": 1,
+    "totalReach": 896,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 25
+  },
+  {
+    "date": "2025-07-10",
+    "postCount": 1,
+    "totalReach": 1885,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 54
+  },
+  {
+    "date": "2025-07-09",
+    "postCount": 2,
+    "totalReach": 4013,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 235
+  },
+  {
+    "date": "2025-07-08",
+    "postCount": 3,
+    "totalReach": 41045,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 1214
+  },
+  {
+    "date": "2025-07-07",
+    "postCount": 2,
+    "totalReach": 1729,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 52
+  },
+  {
+    "date": "2025-07-04",
+    "postCount": 1,
+    "totalReach": 16168,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 1790
+  },
+  {
+    "date": "2025-07-02",
+    "postCount": 1,
+    "totalReach": 7302,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 1017
+  },
+  {
+    "date": "2025-06-30",
+    "postCount": 1,
+    "totalReach": 4588,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 702
+  },
+  {
+    "date": "2025-06-27",
+    "postCount": 1,
+    "totalReach": 2414,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 100
+  },
+  {
+    "date": "2025-06-26",
+    "postCount": 1,
+    "totalReach": 4112,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 86
+  },
+  {
+    "date": "2025-06-23",
+    "postCount": 1,
+    "totalReach": 6981,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 192
+  },
+  {
+    "date": "2025-06-20",
+    "postCount": 1,
+    "totalReach": 2424,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 70
+  },
+  {
+    "date": "2025-06-18",
+    "postCount": 1,
+    "totalReach": 1053,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 39
+  },
+  {
+    "date": "2025-06-13",
+    "postCount": 1,
+    "totalReach": 13155,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 2054
+  },
+  {
+    "date": "2025-06-11",
+    "postCount": 1,
+    "totalReach": 998,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 24
+  },
+  {
+    "date": "2025-06-06",
+    "postCount": 1,
+    "totalReach": 1450,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 20
+  },
+  {
+    "date": "2025-06-02",
+    "postCount": 1,
+    "totalReach": 1595,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 99
+  },
+  {
+    "date": "2025-05-30",
+    "postCount": 1,
+    "totalReach": 1388,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 10
+  },
+  {
+    "date": "2025-05-29",
+    "postCount": 1,
+    "totalReach": 2328,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 145
+  },
+  {
+    "date": "2025-05-27",
+    "postCount": 1,
+    "totalReach": 3094,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 229
+  },
+  {
+    "date": "2025-05-26",
+    "postCount": 1,
+    "totalReach": 600,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 29
+  },
+  {
+    "date": "2025-05-22",
+    "postCount": 1,
+    "totalReach": 3274,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 286
+  },
+  {
+    "date": "2025-05-19",
+    "postCount": 1,
+    "totalReach": 1480,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 52
+  },
+  {
+    "date": "2025-05-17",
+    "postCount": 1,
+    "totalReach": 8699,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 381
+  },
+  {
+    "date": "2025-05-16",
+    "postCount": 1,
+    "totalReach": 4806,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 140
+  },
+  {
+    "date": "2025-05-15",
+    "postCount": 1,
+    "totalReach": 2354,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 32
+  },
+  {
+    "date": "2025-05-14",
+    "postCount": 1,
+    "totalReach": 3893,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 69
+  },
+  {
+    "date": "2025-05-13",
+    "postCount": 2,
+    "totalReach": 12783,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 588
+  },
+  {
+    "date": "2025-05-12",
+    "postCount": 2,
+    "totalReach": 6510,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 281
+  },
+  {
+    "date": "2025-05-11",
+    "postCount": 1,
+    "totalReach": 6375,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 141
+  },
+  {
+    "date": "2025-05-09",
+    "postCount": 1,
+    "totalReach": 24553,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 1838
+  },
+  {
+    "date": "2025-05-08",
+    "postCount": 2,
+    "totalReach": 6334,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 785
+  },
+  {
+    "date": "2025-05-07",
+    "postCount": 1,
+    "totalReach": 7186,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 168
+  },
+  {
+    "date": "2025-05-06",
+    "postCount": 1,
+    "totalReach": 7601,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 392
+  },
+  {
+    "date": "2025-05-05",
+    "postCount": 2,
+    "totalReach": 9062,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 479
+  },
+  {
+    "date": "2025-05-03",
+    "postCount": 2,
+    "totalReach": 2722,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 97
+  },
+  {
+    "date": "2025-05-02",
+    "postCount": 2,
+    "totalReach": 2587,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 69
+  },
+  {
+    "date": "2025-05-01",
+    "postCount": 2,
+    "totalReach": 14852,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 751
+  },
+  {
+    "date": "2025-04-30",
+    "postCount": 1,
+    "totalReach": 1275,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 42
+  },
+  {
+    "date": "2025-04-29",
+    "postCount": 1,
+    "totalReach": 6878,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 326
+  },
+  {
+    "date": "2025-04-27",
+    "postCount": 2,
+    "totalReach": 5284,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 348
+  },
+  {
+    "date": "2025-04-26",
+    "postCount": 2,
+    "totalReach": 4403,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 268
+  },
+  {
+    "date": "2025-04-25",
+    "postCount": 2,
+    "totalReach": 8596,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 338
+  },
+  {
+    "date": "2025-04-24",
+    "postCount": 1,
+    "totalReach": 1985,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 87
+  },
+  {
+    "date": "2025-04-23",
+    "postCount": 1,
+    "totalReach": 2839,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 29
+  },
+  {
+    "date": "2025-04-22",
+    "postCount": 1,
+    "totalReach": 1318,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 46
+  },
+  {
+    "date": "2025-04-21",
+    "postCount": 2,
+    "totalReach": 16541,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 1050
+  },
+  {
+    "date": "2025-04-20",
+    "postCount": 1,
+    "totalReach": 1277,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 23
+  },
+  {
+    "date": "2025-04-19",
+    "postCount": 1,
+    "totalReach": 1450,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 55
+  },
+  {
+    "date": "2025-04-18",
+    "postCount": 2,
+    "totalReach": 5505,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 325
+  },
+  {
+    "date": "2025-04-16",
+    "postCount": 1,
+    "totalReach": 1890,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 22
+  },
+  {
+    "date": "2025-04-15",
+    "postCount": 2,
+    "totalReach": 3688,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 44
+  },
+  {
+    "date": "2025-04-14",
+    "postCount": 1,
+    "totalReach": 2110,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 162
+  },
+  {
+    "date": "2025-04-12",
+    "postCount": 1,
+    "totalReach": 1543,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 28
+  },
+  {
+    "date": "2025-04-11",
+    "postCount": 1,
+    "totalReach": 1102,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 43
+  },
+  {
+    "date": "2025-04-10",
+    "postCount": 3,
+    "totalReach": 8531,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 393
+  },
+  {
+    "date": "2025-04-09",
+    "postCount": 1,
+    "totalReach": 1299,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 29
+  },
+  {
+    "date": "2025-04-08",
+    "postCount": 1,
+    "totalReach": 1420,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 36
+  },
+  {
+    "date": "2025-04-07",
+    "postCount": 1,
+    "totalReach": 8245,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 295
+  },
+  {
+    "date": "2025-04-03",
+    "postCount": 1,
+    "totalReach": 1331,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 28
+  },
+  {
+    "date": "2025-04-02",
+    "postCount": 2,
+    "totalReach": 6385,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 211
+  },
+  {
+    "date": "2025-04-01",
+    "postCount": 1,
+    "totalReach": 1964,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 84
+  },
+  {
+    "date": "2025-03-31",
+    "postCount": 2,
+    "totalReach": 13749,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 493
+  },
+  {
+    "date": "2025-03-29",
+    "postCount": 1,
+    "totalReach": 621,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 6
+  },
+  {
+    "date": "2025-03-28",
+    "postCount": 2,
+    "totalReach": 3877,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 81
+  },
+  {
+    "date": "2025-03-27",
+    "postCount": 1,
+    "totalReach": 2518,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 104
+  },
+  {
+    "date": "2025-03-26",
+    "postCount": 1,
+    "totalReach": 1941,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 71
+  },
+  {
+    "date": "2025-03-25",
+    "postCount": 1,
+    "totalReach": 2525,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 242
+  },
+  {
+    "date": "2025-03-24",
+    "postCount": 2,
+    "totalReach": 9014,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 352
+  },
+  {
+    "date": "2025-03-22",
+    "postCount": 1,
+    "totalReach": 1639,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 56
+  },
+  {
+    "date": "2025-03-20",
+    "postCount": 1,
+    "totalReach": 5959,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 273
+  },
+  {
+    "date": "2025-03-19",
+    "postCount": 2,
+    "totalReach": 4768,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 173
+  },
+  {
+    "date": "2025-03-18",
+    "postCount": 2,
+    "totalReach": 2363,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 98
+  },
+  {
+    "date": "2025-03-17",
+    "postCount": 1,
+    "totalReach": 1850,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 47
+  },
+  {
+    "date": "2025-03-14",
+    "postCount": 2,
+    "totalReach": 6612,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 231
+  },
+  {
+    "date": "2025-03-13",
+    "postCount": 2,
+    "totalReach": 1574,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 29
+  },
+  {
+    "date": "2025-03-12",
+    "postCount": 1,
+    "totalReach": 9909,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 689
+  },
+  {
+    "date": "2025-03-11",
+    "postCount": 2,
+    "totalReach": 2778,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 91
+  },
+  {
+    "date": "2025-03-07",
+    "postCount": 1,
+    "totalReach": 1468,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 34
+  },
+  {
+    "date": "2025-03-06",
+    "postCount": 2,
+    "totalReach": 8917,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 354
+  },
+  {
+    "date": "2025-03-05",
+    "postCount": 1,
+    "totalReach": 22858,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 2382
+  },
+  {
+    "date": "2025-03-04",
+    "postCount": 1,
+    "totalReach": 1178,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 35
+  },
+  {
+    "date": "2025-02-26",
+    "postCount": 2,
+    "totalReach": 3304,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 133
+  },
+  {
+    "date": "2025-02-25",
+    "postCount": 1,
+    "totalReach": 948,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 15
+  },
+  {
+    "date": "2025-02-20",
+    "postCount": 2,
+    "totalReach": 13395,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 716
+  },
+  {
+    "date": "2025-02-19",
+    "postCount": 1,
+    "totalReach": 2104,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 61
+  },
+  {
+    "date": "2025-02-18",
+    "postCount": 2,
+    "totalReach": 1990,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 63
+  },
+  {
+    "date": "2025-02-17",
+    "postCount": 1,
+    "totalReach": 1695,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 80
+  },
+  {
+    "date": "2025-02-14",
+    "postCount": 2,
+    "totalReach": 2038,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 60
+  },
+  {
+    "date": "2025-02-13",
+    "postCount": 1,
+    "totalReach": 14260,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 261
+  },
+  {
+    "date": "2025-02-12",
+    "postCount": 1,
+    "totalReach": 1098,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 18
+  },
+  {
+    "date": "2025-02-10",
+    "postCount": 1,
+    "totalReach": 2418,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 144
+  },
+  {
+    "date": "2025-02-08",
+    "postCount": 1,
+    "totalReach": 929,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 3
+  },
+  {
+    "date": "2025-02-07",
+    "postCount": 1,
+    "totalReach": 1380,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 17
+  },
+  {
+    "date": "2025-02-06",
+    "postCount": 1,
+    "totalReach": 1704,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 60
+  },
+  {
+    "date": "2025-02-05",
+    "postCount": 1,
+    "totalReach": 2411,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 106
+  },
+  {
+    "date": "2025-02-03",
+    "postCount": 1,
+    "totalReach": 1503,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 19
+  },
+  {
+    "date": "2025-02-02",
+    "postCount": 1,
+    "totalReach": 2591,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 85
+  },
+  {
+    "date": "2025-01-27",
+    "postCount": 1,
+    "totalReach": 1615,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 63
+  },
+  {
+    "date": "2025-01-24",
+    "postCount": 2,
+    "totalReach": 2764,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 91
+  },
+  {
+    "date": "2025-01-23",
+    "postCount": 2,
+    "totalReach": 3910,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 215
+  },
+  {
+    "date": "2025-01-22",
+    "postCount": 2,
+    "totalReach": 2194,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 60
+  },
+  {
+    "date": "2025-01-17",
+    "postCount": 1,
+    "totalReach": 1203,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 20
+  },
+  {
+    "date": "2025-01-16",
+    "postCount": 1,
+    "totalReach": 11618,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 1133
+  },
+  {
+    "date": "2025-01-08",
+    "postCount": 1,
+    "totalReach": 1770,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 26
+  },
+  {
+    "date": "2025-01-04",
+    "postCount": 1,
+    "totalReach": 1198,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 5
+  },
+  {
+    "date": "2024-12-12",
+    "postCount": 2,
+    "totalReach": 5702,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 318
+  },
+  {
+    "date": "2024-12-10",
+    "postCount": 1,
+    "totalReach": 31734,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 290
+  },
+  {
+    "date": "2024-12-09",
+    "postCount": 1,
+    "totalReach": 1716,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 51
+  },
+  {
+    "date": "2024-12-06",
+    "postCount": 1,
+    "totalReach": 2025,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 210
+  },
+  {
+    "date": "2024-12-04",
+    "postCount": 1,
+    "totalReach": 403,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 6
+  },
+  {
+    "date": "2024-11-29",
+    "postCount": 1,
+    "totalReach": 1196,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 20
+  },
+  {
+    "date": "2024-11-28",
+    "postCount": 1,
+    "totalReach": 1887,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 35
+  },
+  {
+    "date": "2024-11-27",
+    "postCount": 1,
+    "totalReach": 1290,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 67
+  },
+  {
+    "date": "2024-11-26",
+    "postCount": 1,
+    "totalReach": 988,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 8
+  },
+  {
+    "date": "2024-11-25",
+    "postCount": 1,
+    "totalReach": 1071,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 30
+  },
+  {
+    "date": "2024-11-22",
+    "postCount": 2,
+    "totalReach": 2090,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 84
+  },
+  {
+    "date": "2024-11-19",
+    "postCount": 1,
+    "totalReach": 449,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 16
+  },
+  {
+    "date": "2024-11-15",
+    "postCount": 2,
+    "totalReach": 2573,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 208
+  },
+  {
+    "date": "2024-11-12",
+    "postCount": 1,
+    "totalReach": 1376,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 139
+  },
+  {
+    "date": "2024-11-10",
+    "postCount": 1,
+    "totalReach": 2535,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 32
+  },
+  {
+    "date": "2024-11-08",
+    "postCount": 1,
+    "totalReach": 3067,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 139
+  },
+  {
+    "date": "2024-11-07",
+    "postCount": 1,
+    "totalReach": 3240,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 173
+  },
+  {
+    "date": "2024-11-06",
+    "postCount": 1,
+    "totalReach": 2477,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 149
+  },
+  {
+    "date": "2024-11-05",
+    "postCount": 1,
+    "totalReach": 2937,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 154
+  },
+  {
+    "date": "2024-11-04",
+    "postCount": 2,
+    "totalReach": 10107,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 430
+  },
+  {
+    "date": "2024-11-03",
+    "postCount": 1,
+    "totalReach": 1428,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 58
+  },
+  {
+    "date": "2024-11-02",
+    "postCount": 1,
+    "totalReach": 2149,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 136
+  },
+  {
+    "date": "2024-11-01",
+    "postCount": 1,
+    "totalReach": 11678,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 1012
+  },
+  {
+    "date": "2024-10-31",
+    "postCount": 1,
+    "totalReach": 2784,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 69
+  },
+  {
+    "date": "2024-10-30",
+    "postCount": 2,
+    "totalReach": 7525,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 327
+  },
+  {
+    "date": "2024-10-29",
+    "postCount": 1,
+    "totalReach": 4275,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 226
+  },
+  {
+    "date": "2024-10-28",
+    "postCount": 1,
+    "totalReach": 4425,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 165
+  },
+  {
+    "date": "2024-10-25",
+    "postCount": 1,
+    "totalReach": 10068,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 974
+  },
+  {
+    "date": "2024-10-24",
+    "postCount": 1,
+    "totalReach": 697,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 5
+  },
+  {
+    "date": "2024-10-22",
+    "postCount": 2,
+    "totalReach": 7842,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 345
+  },
+  {
+    "date": "2024-10-21",
+    "postCount": 1,
+    "totalReach": 754,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 12
+  },
+  {
+    "date": "2024-10-18",
+    "postCount": 2,
+    "totalReach": 2662,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 76
+  },
+  {
+    "date": "2024-10-17",
+    "postCount": 1,
+    "totalReach": 1820,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 57
+  },
+  {
+    "date": "2024-10-16",
+    "postCount": 1,
+    "totalReach": 7944,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 339
+  },
+  {
+    "date": "2024-10-15",
+    "postCount": 1,
+    "totalReach": 1351,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 19
+  },
+  {
+    "date": "2024-10-14",
+    "postCount": 1,
+    "totalReach": 2734,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 87
+  },
+  {
+    "date": "2024-10-12",
+    "postCount": 1,
+    "totalReach": 1578,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 3
+  },
+  {
+    "date": "2024-10-11",
+    "postCount": 1,
+    "totalReach": 2921,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 62
+  },
+  {
+    "date": "2024-10-09",
+    "postCount": 1,
+    "totalReach": 1341,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 44
+  },
+  {
+    "date": "2024-10-08",
+    "postCount": 1,
+    "totalReach": 13420,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 197
+  },
+  {
+    "date": "2024-10-07",
+    "postCount": 1,
+    "totalReach": 3122,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 156
+  },
+  {
+    "date": "2024-10-06",
+    "postCount": 2,
+    "totalReach": 3059,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 109
+  },
+  {
+    "date": "2024-09-29",
+    "postCount": 1,
+    "totalReach": 2187,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 41
+  },
+  {
+    "date": "2024-09-27",
+    "postCount": 1,
+    "totalReach": 2093,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 42
+  },
+  {
+    "date": "2024-09-25",
+    "postCount": 1,
+    "totalReach": 1410,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 25
+  },
+  {
+    "date": "2024-09-24",
+    "postCount": 2,
+    "totalReach": 7252,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 133
+  },
+  {
+    "date": "2024-09-23",
+    "postCount": 2,
+    "totalReach": 3340,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 67
+  },
+  {
+    "date": "2024-09-20",
+    "postCount": 1,
+    "totalReach": 506,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 1
+  },
+  {
+    "date": "2024-09-19",
+    "postCount": 1,
+    "totalReach": 1522,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 34
+  },
+  {
+    "date": "2024-09-18",
+    "postCount": 1,
+    "totalReach": 6307,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 291
+  },
+  {
+    "date": "2024-09-17",
+    "postCount": 1,
+    "totalReach": 779,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 28
+  },
+  {
+    "date": "2024-09-05",
+    "postCount": 1,
+    "totalReach": 750,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 25
+  },
+  {
+    "date": "2024-09-04",
+    "postCount": 1,
+    "totalReach": 2984,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 53
+  },
+  {
+    "date": "2024-09-03",
+    "postCount": 1,
+    "totalReach": 4203,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 271
+  },
+  {
+    "date": "2024-08-30",
+    "postCount": 1,
+    "totalReach": 2335,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 50
+  },
+  {
+    "date": "2024-08-24",
+    "postCount": 1,
+    "totalReach": 2267,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 25
+  },
+  {
+    "date": "2024-08-21",
+    "postCount": 1,
+    "totalReach": 2917,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 151
+  },
+  {
+    "date": "2024-08-19",
+    "postCount": 1,
+    "totalReach": 1458,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 6
+  },
+  {
+    "date": "2024-08-16",
+    "postCount": 2,
+    "totalReach": 1890,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 2
+  },
+  {
+    "date": "2024-08-15",
+    "postCount": 1,
+    "totalReach": 5929,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 268
+  },
+  {
+    "date": "2024-08-13",
+    "postCount": 1,
+    "totalReach": 56075,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 1031
+  },
+  {
+    "date": "2024-08-09",
+    "postCount": 1,
+    "totalReach": 1129,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 5
+  },
+  {
+    "date": "2024-08-08",
+    "postCount": 1,
+    "totalReach": 2090,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 72
+  },
+  {
+    "date": "2024-08-07",
+    "postCount": 2,
+    "totalReach": 2845,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 92
+  },
+  {
+    "date": "2024-08-05",
+    "postCount": 1,
+    "totalReach": 2325,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 135
+  },
+  {
+    "date": "2024-08-02",
+    "postCount": 1,
+    "totalReach": 3154,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 519
+  },
+  {
+    "date": "2024-08-01",
+    "postCount": 1,
+    "totalReach": 2207,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 100
+  },
+  {
+    "date": "2024-07-30",
+    "postCount": 1,
+    "totalReach": 5339,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 390
+  },
+  {
+    "date": "2024-07-29",
+    "postCount": 4,
+    "totalReach": 5480,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 126
+  },
+  {
+    "date": "2024-07-27",
+    "postCount": 1,
+    "totalReach": 27865,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 2099
+  },
+  {
+    "date": "2024-07-26",
+    "postCount": 1,
+    "totalReach": 1825,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 52
+  },
+  {
+    "date": "2024-07-25",
+    "postCount": 1,
+    "totalReach": 460,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 0
+  },
+  {
+    "date": "2024-07-23",
+    "postCount": 3,
+    "totalReach": 8008,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 181
+  },
+  {
+    "date": "2024-07-20",
+    "postCount": 1,
+    "totalReach": 3428,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 214
+  },
+  {
+    "date": "2024-07-19",
+    "postCount": 1,
+    "totalReach": 3982,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 79
+  },
+  {
+    "date": "2024-07-18",
+    "postCount": 1,
+    "totalReach": 1895,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 49
+  },
+  {
+    "date": "2024-07-17",
+    "postCount": 1,
+    "totalReach": 3136,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 120
+  },
+  {
+    "date": "2024-07-16",
+    "postCount": 1,
+    "totalReach": 884,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 9
+  },
+  {
+    "date": "2024-07-15",
+    "postCount": 1,
+    "totalReach": 1205,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 19
+  },
+  {
+    "date": "2024-07-13",
+    "postCount": 1,
+    "totalReach": 963,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 9
+  },
+  {
+    "date": "2024-07-12",
+    "postCount": 1,
+    "totalReach": 1364,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 32
+  },
+  {
+    "date": "2024-07-10",
+    "postCount": 3,
+    "totalReach": 3612,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 103
+  },
+  {
+    "date": "2024-07-09",
+    "postCount": 1,
+    "totalReach": 320,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 7
+  },
+  {
+    "date": "2024-07-08",
+    "postCount": 2,
+    "totalReach": 3576,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 59
+  },
+  {
+    "date": "2024-07-05",
+    "postCount": 1,
+    "totalReach": 2831,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 36
+  },
+  {
+    "date": "2024-07-04",
+    "postCount": 1,
+    "totalReach": 2730,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 46
+  },
+  {
+    "date": "2024-07-03",
+    "postCount": 1,
+    "totalReach": 620,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 15
+  },
+  {
+    "date": "2024-07-02",
+    "postCount": 1,
+    "totalReach": 1269,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 18
+  },
+  {
+    "date": "2024-07-01",
+    "postCount": 1,
+    "totalReach": 5817,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 273
+  },
+  {
+    "date": "2024-06-27",
+    "postCount": 2,
+    "totalReach": 1864,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 10
+  },
+  {
+    "date": "2024-06-26",
+    "postCount": 1,
+    "totalReach": 1865,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 19
+  },
+  {
+    "date": "2024-06-23",
+    "postCount": 1,
+    "totalReach": 1240,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 68
+  },
+  {
+    "date": "2024-06-20",
+    "postCount": 1,
+    "totalReach": 950,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 26
+  },
+  {
+    "date": "2024-06-19",
+    "postCount": 2,
+    "totalReach": 7227,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 274
+  },
+  {
+    "date": "2024-06-18",
+    "postCount": 2,
+    "totalReach": 10791,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 538
+  },
+  {
+    "date": "2024-06-12",
+    "postCount": 2,
+    "totalReach": 4562,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 83
+  },
+  {
+    "date": "2024-06-11",
+    "postCount": 1,
+    "totalReach": 1569,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 81
+  },
+  {
+    "date": "2024-06-07",
+    "postCount": 1,
+    "totalReach": 2460,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 68
+  },
+  {
+    "date": "2024-06-06",
+    "postCount": 2,
+    "totalReach": 6512,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 219
+  },
+  {
+    "date": "2024-06-05",
+    "postCount": 2,
+    "totalReach": 2586,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 10
+  },
+  {
+    "date": "2024-06-03",
+    "postCount": 1,
+    "totalReach": 1580,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 45
+  },
+  {
+    "date": "2024-05-31",
+    "postCount": 1,
+    "totalReach": 1917,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 29
+  },
+  {
+    "date": "2024-05-30",
+    "postCount": 4,
+    "totalReach": 13727,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 414
+  },
+  {
+    "date": "2024-05-29",
+    "postCount": 2,
+    "totalReach": 3693,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 114
+  },
+  {
+    "date": "2024-05-28",
+    "postCount": 1,
+    "totalReach": 1301,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 71
+  },
+  {
+    "date": "2024-05-24",
+    "postCount": 1,
+    "totalReach": 1066,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 28
+  },
+  {
+    "date": "2024-05-23",
+    "postCount": 1,
+    "totalReach": 4795,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 304
+  },
+  {
+    "date": "2024-05-22",
+    "postCount": 1,
+    "totalReach": 1386,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 10
+  },
+  {
+    "date": "2024-05-21",
+    "postCount": 2,
+    "totalReach": 7017,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 339
+  },
+  {
+    "date": "2024-05-20",
+    "postCount": 1,
+    "totalReach": 2967,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 187
+  },
+  {
+    "date": "2024-05-16",
+    "postCount": 1,
+    "totalReach": 2213,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 13
+  },
+  {
+    "date": "2024-05-15",
+    "postCount": 1,
+    "totalReach": 3028,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 107
+  },
+  {
+    "date": "2024-05-14",
+    "postCount": 1,
+    "totalReach": 1772,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 41
+  },
+  {
+    "date": "2024-05-13",
+    "postCount": 2,
+    "totalReach": 4334,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 42
+  },
+  {
+    "date": "2024-05-10",
+    "postCount": 1,
+    "totalReach": 2196,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 22
+  },
+  {
+    "date": "2024-05-08",
+    "postCount": 1,
+    "totalReach": 2594,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 18
+  },
+  {
+    "date": "2024-05-07",
+    "postCount": 1,
+    "totalReach": 2780,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 35
+  },
+  {
+    "date": "2024-05-06",
+    "postCount": 2,
+    "totalReach": 8912,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 288
+  },
+  {
+    "date": "2024-05-03",
+    "postCount": 1,
+    "totalReach": 6324,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 445
+  },
+  {
+    "date": "2024-05-02",
+    "postCount": 2,
+    "totalReach": 3278,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 210
+  },
+  {
+    "date": "2024-05-01",
+    "postCount": 1,
+    "totalReach": 525,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 0
+  },
+  {
+    "date": "2024-04-30",
+    "postCount": 1,
+    "totalReach": 20321,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 1373
+  },
+  {
+    "date": "2024-04-29",
+    "postCount": 1,
+    "totalReach": 2454,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 54
+  },
+  {
+    "date": "2024-04-26",
+    "postCount": 2,
+    "totalReach": 4484,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 68
+  },
+  {
+    "date": "2024-04-25",
+    "postCount": 2,
+    "totalReach": 3810,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 57
+  },
+  {
+    "date": "2024-04-24",
+    "postCount": 3,
+    "totalReach": 5790,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 97
+  },
+  {
+    "date": "2024-04-23",
+    "postCount": 3,
+    "totalReach": 6288,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 149
+  },
+  {
+    "date": "2024-04-22",
+    "postCount": 3,
+    "totalReach": 4336,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 87
+  },
+  {
+    "date": "2024-04-21",
+    "postCount": 1,
+    "totalReach": 2035,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 32
+  },
+  {
+    "date": "2024-04-20",
+    "postCount": 1,
+    "totalReach": 2101,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 49
+  },
+  {
+    "date": "2024-04-19",
+    "postCount": 2,
+    "totalReach": 2717,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 26
+  },
+  {
+    "date": "2024-04-18",
+    "postCount": 2,
+    "totalReach": 3171,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 50
+  },
+  {
+    "date": "2024-04-17",
+    "postCount": 2,
+    "totalReach": 11618,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 356
+  },
+  {
+    "date": "2024-04-16",
+    "postCount": 2,
+    "totalReach": 2902,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 81
+  },
+  {
+    "date": "2024-04-15",
+    "postCount": 1,
+    "totalReach": 2063,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 38
+  },
+  {
+    "date": "2024-04-12",
+    "postCount": 1,
+    "totalReach": 3499,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 65
+  },
+  {
+    "date": "2024-04-11",
+    "postCount": 1,
+    "totalReach": 8018,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 444
+  },
+  {
+    "date": "2024-04-10",
+    "postCount": 2,
+    "totalReach": 4360,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 219
+  },
+  {
+    "date": "2024-04-08",
+    "postCount": 1,
+    "totalReach": 5961,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 191
+  },
+  {
+    "date": "2024-04-07",
+    "postCount": 3,
+    "totalReach": 6753,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 177
+  },
+  {
+    "date": "2024-04-03",
+    "postCount": 1,
+    "totalReach": 3036,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 44
+  },
+  {
+    "date": "2024-04-02",
+    "postCount": 2,
+    "totalReach": 4384,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 34
+  },
+  {
+    "date": "2024-04-01",
+    "postCount": 1,
+    "totalReach": 5776,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 273
+  },
+  {
+    "date": "2024-03-31",
+    "postCount": 1,
+    "totalReach": 26702,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 496
+  },
+  {
+    "date": "2024-03-29",
+    "postCount": 1,
+    "totalReach": 3054,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 208
+  },
+  {
+    "date": "2024-03-28",
+    "postCount": 1,
+    "totalReach": 1497,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 13
+  },
+  {
+    "date": "2024-03-27",
+    "postCount": 1,
+    "totalReach": 1196,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 34
+  },
+  {
+    "date": "2024-03-25",
+    "postCount": 1,
+    "totalReach": 2130,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 64
+  },
+  {
+    "date": "2024-03-22",
+    "postCount": 1,
+    "totalReach": 1833,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 36
+  },
+  {
+    "date": "2024-03-21",
+    "postCount": 1,
+    "totalReach": 2172,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 40
+  },
+  {
+    "date": "2024-03-20",
+    "postCount": 2,
+    "totalReach": 3355,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 43
+  },
+  {
+    "date": "2024-03-19",
+    "postCount": 2,
+    "totalReach": 1109,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 15
+  },
+  {
+    "date": "2024-03-18",
+    "postCount": 1,
+    "totalReach": 1670,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 21
+  },
+  {
+    "date": "2024-03-16",
+    "postCount": 1,
+    "totalReach": 749,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 13
+  },
+  {
+    "date": "2024-03-15",
+    "postCount": 2,
+    "totalReach": 2870,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 25
+  },
+  {
+    "date": "2024-03-13",
+    "postCount": 1,
+    "totalReach": 1837,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 35
+  },
+  {
+    "date": "2024-03-11",
+    "postCount": 3,
+    "totalReach": 5619,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 127
+  },
+  {
+    "date": "2024-03-10",
+    "postCount": 1,
+    "totalReach": 687,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 6
+  },
+  {
+    "date": "2024-03-08",
+    "postCount": 1,
+    "totalReach": 2347,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 45
+  },
+  {
+    "date": "2024-03-07",
+    "postCount": 1,
+    "totalReach": 1554,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 13
+  },
+  {
+    "date": "2024-03-06",
+    "postCount": 1,
+    "totalReach": 10017,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 855
+  },
+  {
+    "date": "2024-03-01",
+    "postCount": 2,
+    "totalReach": 2585,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 23
+  },
+  {
+    "date": "2024-02-26",
+    "postCount": 1,
+    "totalReach": 819,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 19
+  },
+  {
+    "date": "2024-02-24",
+    "postCount": 1,
+    "totalReach": 7725,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 227
+  },
+  {
+    "date": "2024-02-23",
+    "postCount": 2,
+    "totalReach": 4957,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 179
+  },
+  {
+    "date": "2024-02-22",
+    "postCount": 1,
+    "totalReach": 1426,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 14
+  },
+  {
+    "date": "2024-02-21",
+    "postCount": 2,
+    "totalReach": 5991,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 192
+  },
+  {
+    "date": "2024-02-20",
+    "postCount": 2,
+    "totalReach": 3172,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 35
+  },
+  {
+    "date": "2024-02-19",
+    "postCount": 1,
+    "totalReach": 1518,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 11
+  },
+  {
+    "date": "2024-02-16",
+    "postCount": 3,
+    "totalReach": 2729,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 36
+  },
+  {
+    "date": "2024-02-15",
+    "postCount": 2,
+    "totalReach": 3120,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 46
+  },
+  {
+    "date": "2024-02-14",
+    "postCount": 1,
+    "totalReach": 983,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 10
+  },
+  {
+    "date": "2024-02-13",
+    "postCount": 1,
+    "totalReach": 1608,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 18
+  },
+  {
+    "date": "2024-02-12",
+    "postCount": 1,
+    "totalReach": 1115,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 11
+  },
+  {
+    "date": "2024-02-08",
+    "postCount": 1,
+    "totalReach": 6201,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 276
+  },
+  {
+    "date": "2024-02-07",
+    "postCount": 1,
+    "totalReach": 436,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 5
+  },
+  {
+    "date": "2024-02-06",
+    "postCount": 1,
+    "totalReach": 1295,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 12
+  },
+  {
+    "date": "2024-02-01",
+    "postCount": 1,
+    "totalReach": 1236,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 10
+  },
+  {
+    "date": "2024-01-31",
+    "postCount": 1,
+    "totalReach": 1582,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 22
+  },
+  {
+    "date": "2024-01-29",
+    "postCount": 1,
+    "totalReach": 1543,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 13
+  },
+  {
+    "date": "2024-01-26",
+    "postCount": 1,
+    "totalReach": 3941,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 31
+  },
+  {
+    "date": "2024-01-25",
+    "postCount": 2,
+    "totalReach": 2744,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 56
+  },
+  {
+    "date": "2024-01-24",
+    "postCount": 1,
+    "totalReach": 992,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 6
+  },
+  {
+    "date": "2024-01-23",
+    "postCount": 2,
+    "totalReach": 4583,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 46
+  },
+  {
+    "date": "2024-01-22",
+    "postCount": 1,
+    "totalReach": 2144,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 23
+  },
+  {
+    "date": "2024-01-18",
+    "postCount": 2,
+    "totalReach": 3187,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 42
+  },
+  {
+    "date": "2024-01-17",
+    "postCount": 1,
+    "totalReach": 2363,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 41
+  },
+  {
+    "date": "2024-01-16",
+    "postCount": 1,
+    "totalReach": 1621,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 13
+  },
+  {
+    "date": "2024-01-15",
+    "postCount": 1,
+    "totalReach": 2085,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 49
+  },
+  {
+    "date": "2024-01-12",
+    "postCount": 1,
+    "totalReach": 12605,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 871
+  },
+  {
+    "date": "2024-01-11",
+    "postCount": 2,
+    "totalReach": 3816,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 75
+  },
+  {
+    "date": "2024-01-10",
+    "postCount": 2,
+    "totalReach": 32959,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 4004
+  },
+  {
+    "date": "2024-01-09",
+    "postCount": 1,
+    "totalReach": 1256,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 9
+  },
+  {
+    "date": "2024-01-08",
+    "postCount": 2,
+    "totalReach": 14840,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 1564
+  },
+  {
+    "date": "2024-01-05",
+    "postCount": 1,
+    "totalReach": 12168,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 1219
+  },
+  {
+    "date": "2024-01-04",
+    "postCount": 3,
+    "totalReach": 6432,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 90
+  },
+  {
+    "date": "2024-01-03",
+    "postCount": 3,
+    "totalReach": 6299,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 189
+  },
+  {
+    "date": "2024-01-02",
+    "postCount": 1,
+    "totalReach": 7433,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 156
+  },
+  {
+    "date": "2024-01-01",
+    "postCount": 1,
+    "totalReach": 8385,
+    "totalEngagement": 0,
+    "avgEngagementRate": 0,
+    "totalShares": 0,
+    "totalClicks": 476
+  }
+]
