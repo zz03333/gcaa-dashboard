@@ -40,11 +40,11 @@ export default function HeatmapChart({ heatmapData, onClick }) {
   const getColor = (value, hasData) => {
     // 無資料的格子用灰色
     if (!hasData) return 'rgba(148, 163, 184, 0.1)';
-    // 有資料但 avgER 為 0 用最淺的綠色
-    if (value === 0) return 'rgba(34, 197, 94, 0.2)';
-    // 有資料的格子根據 avgER 深淺變化
-    const intensity = Math.min(value / (maxER * 0.8), 1);
-    return `rgba(34, 197, 94, ${0.25 + intensity * 0.65})`;
+    // 有資料但 avgER 為 0 用較淺的綠色
+    if (value === 0) return 'rgba(34, 197, 94, 0.35)';
+    // 有資料的格子根據 avgER 深淺變化，使用更寬的範圍讓所有資料點可見
+    const intensity = Math.min(value / maxER, 1);
+    return `rgba(34, 197, 94, ${0.35 + intensity * 0.55})`;
   };
 
   const handleCellClick = (cell) => {

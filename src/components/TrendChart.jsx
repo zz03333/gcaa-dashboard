@@ -40,7 +40,7 @@ export default function TrendChart({ daily, timeRange, dateRange, selectedMetric
 
   // 當外部 selectedMetric 改變時，更新內部狀態
   useEffect(() => {
-    if (selectedMetric && selectedMetric !== primaryMetric) {
+    if (selectedMetric) {
       setPrimaryMetric(selectedMetric);
     }
   }, [selectedMetric]);

@@ -13,7 +13,7 @@ import styles from './BarCharts.module.css';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip);
 
-// 生成單色深淺變化的顏色
+// 生成單色深淺變化的顏色（簡化為 4 個漸層階段）
 function generateGradientColors(baseColor, count) {
   // 解析 RGB 顏色
   const hex = baseColor.replace('#', '');
@@ -21,12 +21,17 @@ function generateGradientColors(baseColor, count) {
   const g = parseInt(hex.substring(2, 4), 16);
   const b = parseInt(hex.substring(4, 6), 16);
 
+  // 定義 4 個固定的漸層階段 (opacity)
+  const opacityLevels = [1.0, 0.8, 0.6, 0.4];
+  const brightnessLevels = [1.0, 0.8, 0.6, 0.4];
+
   const colors = [];
   for (let i = 0; i < count; i++) {
-    // 從 0.4 到 1.0 的透明度範圍，根據排名決定深淺
-    const alpha = 1 - (i / count) * 0.6;
-    // 調整亮度 - 越後面越暗
-    const factor = 0.4 + (1 - i / count) * 0.6;
+    // 將項目分配到 4 個漸層組中
+    const groupIndex = Math.min(Math.floor((i / count) * 4), 3);
+    const alpha = opacityLevels[groupIndex];
+    const factor = brightnessLevels[groupIndex];
+
     const newR = Math.round(r * factor);
     const newG = Math.round(g * factor);
     const newB = Math.round(b * factor);
