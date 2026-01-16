@@ -16,9 +16,8 @@ SPREADSHEET_ID = '1HJXQrlB0eYJsHmioLMNfCKV_OXHqqgwtwRtO9s5qbB0'
 SERVICE_ACCOUNT_FILE = os.path.join(os.path.dirname(__file__), '..', 'esg-reports-collection-9661012923ed.json')
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), '..', 'public', 'data')
 
-# Sheets 設定
+# Sheets 設定 - 現在只使用 raw_post_insights (已整合所有貼文資料)
 SHEETS = {
-    'raw_posts': 'raw_posts',
     'raw_insights': 'raw_post_insights'
 }
 
@@ -85,43 +84,34 @@ def parse_float(value):
     except (ValueError, TypeError):
         return 0.0
 
-def join_data(raw_posts, raw_insights):
-    """合併 raw_posts 和 raw_insights 資料"""
-    # 建立 insights lookup (by Post ID)
-    insights_map = {}
-    for insight in raw_insights:
-        post_id = insight.get('Post ID', '')
-        if post_id:
-            insights_map[post_id] = insight
-
+def process_insights_data(raw_insights):
+    """處理 raw_post_insights 資料（已整合所有貼文資訊）"""
     posts = []
-    for post in raw_posts:
-        post_id = post.get('Post ID', '')
+    for row in raw_insights:
+        post_id = row.get('Post ID', '')
         if not post_id:
             continue
 
-        insight = insights_map.get(post_id, {})
-
-        # 基本資訊
-        published_at = parse_datetime(post.get('發布時間 (GMT+8)', ''))
-        content = post.get('內容', '')
+        # 基本資訊 (現在都在 raw_post_insights 中)
+        published_at = parse_datetime(row.get('發布時間 (GMT+8)', ''))
+        content = row.get('內容預覽', '') or ''
 
         # 互動指標
-        likes = parse_int(insight.get('讚數', 0))
-        comments = parse_int(insight.get('留言數', 0))
-        shares = parse_int(insight.get('分享數', 0))
-        clicks = parse_int(insight.get('點擊數', 0))
-        reach = parse_int(insight.get('觸及人數', 0))
-        video_views = parse_int(insight.get('影片觀看', 0))
+        likes = parse_int(row.get('總讚數', 0))
+        comments = parse_int(row.get('留言數', 0))
+        shares = parse_int(row.get('分享數', 0))
+        clicks = parse_int(row.get('點擊數', 0))
+        reach = parse_int(row.get('觸及人數', 0))
+        video_views = parse_int(row.get('影片觀看', 0))
 
         # 表情反應
         reactions = {
-            'like': parse_int(insight.get('讚', 0)),
-            'love': parse_int(insight.get('愛心', 0)),
-            'wow': parse_int(insight.get('哇', 0)),
-            'haha': parse_int(insight.get('哈哈', 0)),
-            'sad': parse_int(insight.get('嗚嗚', 0)),
-            'angry': parse_int(insight.get('怒', 0))
+            'like': parse_int(row.get('👍反應', 0)),
+            'love': parse_int(row.get('❤️反應', 0)),
+            'wow': parse_int(row.get('😮反應', 0)),
+            'haha': parse_int(row.get('😆反應', 0)),
+            'sad': parse_int(row.get('😢反應', 0)),
+            'angry': parse_int(row.get('😠反應', 0))
         }
 
         # 計算衍生指標
@@ -129,20 +119,22 @@ def join_data(raw_posts, raw_insights):
         engagement_rate = (total_engagement / reach * 100) if reach > 0 else 0
         share_rate = (shares / reach * 100) if reach > 0 else 0
 
-        # 解析標籤
-        hashtags_str = post.get('標籤 (Hashtag)', '') or post.get('標籤', '')
-        hashtags = [h.strip() for h in hashtags_str.split(',') if h.strip()] if hashtags_str else []
+        # 廣告資訊
+        is_promoted = row.get('有投廣', '否') == '是'
+        ad_status = row.get('廣告狀態', '')
+        ad_spend = parse_float(row.get('廣告花費', 0))
 
         posts.append({
             'id': post_id,
             'publishedAt': published_at.isoformat() if published_at else None,
             'content': content,
             'contentPreview': content[:80] + '...' if len(content) > 80 else content,
-            'hashtags': hashtags,
-            'actionType': post.get('行動', '') or '其他',
-            'topic': post.get('議題', '') or '其他',
-            'mediaType': post.get('媒體類型', '') or '未知',
-            'permalink': post.get('連結', '') or insight.get('貼文連結', ''),
+            'actionType': row.get('行動類型', '') or '其他',
+            'topic': row.get('議題類型', '') or '其他',
+            'permalink': row.get('貼文連結', ''),
+            'isPromoted': is_promoted,
+            'adStatus': ad_status,
+            'adSpend': ad_spend,
             'metrics': {
                 'likes': likes,
                 'comments': comments,
@@ -334,19 +326,15 @@ def main():
     print('\n連接 Google Sheets...')
     service = get_sheets_service()
 
-    # 讀取資料
-    print('讀取 raw_posts...')
-    raw_posts = fetch_sheet_data(service, SHEETS['raw_posts'])
-    print(f'  - {len(raw_posts)} 筆貼文')
-
+    # 讀取資料 (只需要 raw_post_insights，已整合所有資訊)
     print('讀取 raw_post_insights...')
     raw_insights = fetch_sheet_data(service, SHEETS['raw_insights'])
-    print(f'  - {len(raw_insights)} 筆 insights')
+    print(f'  - {len(raw_insights)} 筆貼文')
 
-    # 合併資料
+    # 處理資料
     print('\n處理資料...')
-    posts = join_data(raw_posts, raw_insights)
-    print(f'  - 合併後: {len(posts)} 筆貼文')
+    posts = process_insights_data(raw_insights)
+    print(f'  - 處理後: {len(posts)} 筆貼文')
 
     # 生成聚合資料
     daily = generate_daily_data(posts)
