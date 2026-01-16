@@ -5,7 +5,7 @@ import path from 'path'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/gcaa-dashboard/',
+  base: '/gcaa-fb-dashboard/',
   build: {
     outDir: 'dist',
     sourcemap: false
