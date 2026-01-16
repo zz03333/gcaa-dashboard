@@ -8,6 +8,8 @@ import { ActionTypeChart, TopicChart } from './components/BarCharts';
 import HeatmapChart from './components/HeatmapChart';
 import PostsTable from './components/PostsTable';
 import ScatterChart from './components/ScatterChart';
+import ContentAnalysisPage from './components/ContentAnalysisPage';
+import AdAnalyticsPage from './components/AdAnalyticsPage';
 import styles from './App.module.css';
 
 function LoadingScreen() {
@@ -311,6 +313,14 @@ export default function App() {
             onTimeRangeChange={setTimeRange}
             onDateRangeChange={setDateRange}
           />
+        )}
+
+        {activeTab === 'content' && (
+          <ContentAnalysisPage />
+        )}
+
+        {activeTab === 'ads' && (
+          <AdAnalyticsPage />
         )}
       </main>
 

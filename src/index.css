@@ -1,4 +1,29 @@
+@import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap');
+
+/* Custom Tailwind v4 theme configuration */
+@theme {
+  /* Deep Ocean Palette */
+  --color-abyss: #050a12;
+  --color-deep: #0a1018;
+  --color-surface: #111a27;
+  --color-card: #162030;
+  --color-card-hover: #1c2940;
+
+  /* Eco-Tech Accents */
+  --color-primary: #22c55e;
+  --color-primary-dim: rgba(34, 197, 94, 0.15);
+  --color-primary-glow: rgba(34, 197, 94, 0.4);
+  --color-secondary: #06b6d4;
+  --color-tertiary: #8b5cf6;
+  --color-warning: #f59e0b;
+  --color-danger: #ef4444;
+  --color-pink: #ec4899;
+
+  /* Text */
+  --color-bright: #f8fafc;
+  --color-muted: #64748b;
+}
 
 :root {
   /* Deep Ocean Palette */

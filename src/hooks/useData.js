@@ -27,14 +27,17 @@ export function useData() {
 
   useEffect(() => {
     // Check if Firebase is properly configured
-    const firebaseConfigured = db && db.app.options.apiKey !== 'YOUR_API_KEY';
+    // Only fall back to static JSON if Firebase is not configured at all
+    const isFirebaseConfigured = db && db.app.options.apiKey && db.app.options.apiKey !== 'YOUR_API_KEY';
 
-    if (!firebaseConfigured) {
-      console.warn('Firebase not configured, falling back to static JSON');
+    if (!isFirebaseConfigured) {
+      console.log('Firebase not configured, using static JSON data');
       setUseFirestore(false);
       fetchStaticData();
       return;
     }
+
+    console.log('Using Firestore for real-time data sync');
 
     // Real-time listeners for Firestore
     const unsubscribers = [];

@@ -4,7 +4,9 @@ export default function Header({ activeTab, onTabChange, onLogoClick }) {
   const tabs = [
     { id: 'dashboard', label: '總覽' },
     { id: 'explorer', label: '貼文' },
-    { id: 'analytics', label: '分析' }
+    { id: 'analytics', label: '分析' },
+    { id: 'content', label: '內容' },
+    { id: 'ads', label: '廣告' }
   ];
 
   return (
