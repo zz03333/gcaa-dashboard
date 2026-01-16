@@ -321,6 +321,10 @@ export default function App() {
           <a href="https://gcaa.org.tw" target="_blank" rel="noopener noreferrer">
             綠色公民行動聯盟
           </a>
+          {' · '}
+          <a href="https://litostswirrl.github.io/gcaa-dashboard/" target="_blank" rel="noopener noreferrer">
+            原始模板
+          </a>
         </p>
       </footer>
     </div>

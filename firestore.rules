@@ -30,6 +30,34 @@ service cloud.firestore {
       allow write: if false;
     }
 
+    // Daily metrics - public read
+    match /dailyMetrics/{date} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // Aggregated data subcollections
+    match /aggregates/{aggregateType}/data/{docId} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // Phase B: Analytics collections (predictions, recommendations, anomalies)
+    match /predictions/{predictionId} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    match /recommendations/{recommendationId} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    match /anomalies/{anomalyId} {
+      allow read: if true;
+      allow write: if false;
+    }
+
     // Deny all other access
     match /{document=**} {
       allow read, write: if false;

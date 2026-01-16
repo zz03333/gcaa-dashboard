@@ -110,19 +110,24 @@ export function aggregateByDateRange(daily, weeks, dateRange = null) {
     }
   }
 
-  // Sort oldest to newest for charts
-  return data.sort((a, b) => a.date.localeCompare(b.date));
+  // Filter out entries with null/undefined date and sort oldest to newest for charts
+  return data
+    .filter(d => d.date != null)
+    .sort((a, b) => (a.date || '').localeCompare(b.date || ''));
 }
 
 // Calculate comparison data (7 days ago)
 export function getComparisonData(daily, offset = 7) {
   if (!daily || !daily.length) return [];
 
-  return daily.map(d => {
+  // Filter out entries with null date first
+  const validDaily = daily.filter(d => d.date != null);
+
+  return validDaily.map(d => {
     const targetDate = new Date(d.date);
     targetDate.setDate(targetDate.getDate() - offset);
     const targetStr = targetDate.toISOString().slice(0, 10);
-    const comparison = daily.find(x => x.date === targetStr);
+    const comparison = validDaily.find(x => x.date === targetStr);
     return {
       ...d,
       comparison

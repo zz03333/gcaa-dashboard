@@ -9,11 +9,13 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "sync": "python3 sync/data_sync.py",
-    "deploy": "npm run sync && npm run build && firebase deploy --only hosting"
+    "deploy": "npm run sync && npm run build && firebase deploy --only hosting",
+    "deploy:gh": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "chart.js": "^4.5.1",
     "date-fns": "^4.1.0",
+    "firebase": "^10.14.1",
     "react": "^19.2.0",
     "react-chartjs-2": "^5.3.1",
     "react-dom": "^19.2.0",
